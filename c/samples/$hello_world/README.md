@@ -2,6 +2,11 @@
 
 Welcome to the C programming language. In this sample, you see the "Hello, World!" program of C!
 
+## Topics
+
+- The `main()` function.
+- Printing.
+
 ## How to run
 
 - Linux:
