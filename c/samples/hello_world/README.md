@@ -2,6 +2,19 @@
 
 Welcome to hello_world. In this sample, you see the "Hello, World!" program of C!
 
+## How to run
+
+Linux:
+  Type "make" into the console.
+Windows:
+  TODO
+
+## Tinker Ideas
+
+- Remove the '\n' from the printf on line 28. What happens?
+- Change function `int main()` to `void main()`, and remove `return 0` on line 32. What happens?
+  - Then add `return 0` back in. What happens?
+
 ## Todo list
 
 ### Known Issues
