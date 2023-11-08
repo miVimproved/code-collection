@@ -7,7 +7,6 @@ In sample `$hello_world`, you are able to see the basics of printing. In this sa
 ## Topics
 
 - Printing.
-- Integers.
 
 ## How to run
 
