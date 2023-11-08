@@ -6,7 +6,7 @@ Good morning! I'm Vim. As of writing this I am a TA for multiple beginner Comput
 
 I run Linux on my machine, which means that all of my testing has specifically been on Linux. I have made an attempt to make it possible to run all of these on Windows, however I am not particularly confident in my ability to write batch files. Please please please open an issue if you have any issues running this on Windows.
 
-I would *highly* recommend downloading [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) if you can. Using that, you can run all of these programs as if you were using Linux from the command line.
+I would *highly* recommend downloading [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) if you can. It is a Linux virtual machine that runs under Windows in order to emualte the Linux terminal. Using that, you can run all of these programs as if you were using Linux from the command line.
 
 ## How to use
 
