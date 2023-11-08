@@ -31,11 +31,11 @@ In sample `$hello_world`, you are able to see the basics of printing. In this sa
 
 ### Setup
 
-- [ ] Linux.
-  - [ ] Makefile.
-  - [ ] Compilers.
-    - [ ] GCC.
-    - [ ] Clang.
+- [X] Linux.
+  - [X] Makefile.
+  - [X] Compilers.
+    - [X] GCC.
+    - [X]] Clang.
 
 - [ ] Windows.
   - [ ] Batch File.
