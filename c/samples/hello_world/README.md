@@ -13,7 +13,7 @@ Welcome to hello_world. In this sample, you see the "Hello, World!" program of C
 
 - Remove the '\n' from the printf on line 28. What happens?
 - Change function `int main()` to `void main()`, and remove `return 0` on line 32. What happens?
-  - Then add `return 0` back in. What happens?
+  - Add `return 0` back in. What happens?
 - Change what's in between the quotation marks in the printf on line 28. What happens?
 
 ## Todo list
