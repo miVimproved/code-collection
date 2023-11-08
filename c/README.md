@@ -21,4 +21,4 @@ C is a relatively low level compiled programming language. Allan please add deta
   - Or:
     - Visual Studio Code - Decent text editor, see Linux section.
     - MSVC or GCC - Two C compilers. Visual Studio comes with MSVC. I don't have much experience with using GCC on Windows.
-    - TODO: Find a debugger to go here. I don't know any windows ones.
+    - TODO: Find a debugger to go here. I don't know any Windows ones.
