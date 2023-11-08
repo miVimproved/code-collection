@@ -34,7 +34,7 @@ In sample `$hello_world`, you are able to see the basics of printing. In this sa
   - [X] Makefile.
   - [X] Compilers.
     - [X] GCC.
-    - [X]] Clang.
+    - [X] Clang.
 
 - [ ] Windows.
   - [ ] Batch File.
