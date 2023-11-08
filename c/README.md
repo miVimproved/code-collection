@@ -6,9 +6,9 @@ C is a relatively low level compiled programming language. Allan please add deta
 
 ## Prereqs
 
-- Any C compiler.
-- Any text editor.
-- Any debugger.
+- C compiler.
+- Text editor.
+- Debugger.
 
 ### Recommendations
 
