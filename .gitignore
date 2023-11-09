@@ -1,3 +1,6 @@
+# Vim's added ones.
+.vscode
+
 # Prerequisites
 *.d
 
