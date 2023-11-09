@@ -1,6 +1,6 @@
 # Vim's Code Collection
 
-Good morning! I'm Vim. As of writing this I am a TA for multiple beginner Computer Science classes at the university that I attend. I am writing this in the hope that some people can learn from just having code put on a screen in front of them.
+Good morning! I'm Vim. I like programming and want to do as much as I can do to limit the barrier of entry for programming. I am writing this in the hope that some people can learn from just having code put on a screen in front of them (and also because people have told me that they want code to just look at).
 
 ## Disclamer
 
