@@ -8,6 +8,8 @@ I run Linux on my machine, which means that all of my testing has specifically b
 
 I would *highly* recommend downloading [Windows Subsystem for Linux](https://learn.microsoft.com/en-us/windows/wsl/install) if you can. It is a Linux virtual machine that runs under Windows in order to emualte the Linux terminal. Using that, you can run all of these programs as if you were using Linux from the command line.
 
+If you *do* use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install), you'll probably want the packages "make" and "gcc", by the way.
+
 ## How to use
 
 Each language has it's own folder, which is seperated into subfolders.
