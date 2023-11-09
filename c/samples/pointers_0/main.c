@@ -2,11 +2,11 @@
  * @file main.c
  * @author Vim
  * @brief A simple example of printing integers in C.
- * @version 0.1
+ * 
  */
 
 #include <stdio.h> /* printf */
-#include "pointer_functions.h" /* Add_XXX_XXX functions that I wrote for this sample */
+#include "pointer_functions.h" /* Add functions that I wrote for this sample */
 
 /**
  * @brief Helper function to set the given pointer to 0.

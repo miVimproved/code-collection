@@ -33,7 +33,10 @@ int y = *x_pointer; // This is how we'd get the value that x_pointer is pointing
 
 ## Tinker Ideas
 
-- In function `Add_No_P(int, int)`, make the entire function body just be `return a + b;`. What happens?
+- In function `int Add_No_P(int, int)`, make the entire function body just be `return a + b;`. What happens?
+- Try to change the value that `a` or `b` is pointing to in `void Add_All_GOOD(int*, int*, int*)`. What happens?
+- Move `void SetResZero(int*)` to underneath of `int main()`. What happens?
+- Can you find a way to call `int Add_No_P(int, int)` inside of the other addition functions and have the code still work?
 
 ## Todo list
 
