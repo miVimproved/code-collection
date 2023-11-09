@@ -10,6 +10,12 @@ I would *highly* recommend downloading [Windows Subsystem for Linux](https://lea
 
 If you *do* use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install), you'll probably want the packages "make" and "gcc", by the way.
 
+- Ubuntu (default)
+  - `sudo apt-get install make`
+  - `sudo apt-get isntall gcc`
+- Arch
+  - TODO
+
 ## How to use
 
 Each language has it's own folder, which is seperated into subfolders.
