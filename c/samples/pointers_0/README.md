@@ -33,7 +33,7 @@ int y = *x_pointer; // This is how we'd get the value that x_pointer is pointing
 
 ## Tinker Ideas
 
-- In function `Add_No_P(int, int)`, make the entire function body just be `return a + b;` . What happens?
+- In function `Add_No_P(int, int)`, make the entire function body just be `return a + b;`. What happens?
 
 ## Todo list
 
