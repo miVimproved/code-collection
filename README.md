@@ -13,8 +13,13 @@ If you *do* use [WSL](https://learn.microsoft.com/en-us/windows/wsl/install), yo
 - Ubuntu (default)
   - `sudo apt-get install make`
   - `sudo apt-get isntall gcc`
-- Arch
+- Arch (What I use)
   - TODO
+  - If you have `yay`:
+    - `yay make`
+    - `yay gcc`
+- Debian
+  - I know absolutely nobody that uses any Debian based OS, so IDK.
 
 ## How to use
 
