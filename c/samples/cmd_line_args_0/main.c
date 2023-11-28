@@ -30,8 +30,8 @@ int main(int argc, char** argv) {
 	// that you can, and should, check the amount of arguments that are
 	// passed in when writing funcitons.
 	if (argc < 2) {
-		// perror is like printf but not.
-		perror("[Error] No user arguments passed in");
+		// fprintf is like printf but not.
+		fprintf(stderr, "[Error] No user arguments passed in.\n");
 		return -1;
 	}
 
