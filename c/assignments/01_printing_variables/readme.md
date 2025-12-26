@@ -1,4 +1,4 @@
-# Assignment 0: Printing Variables
+# Assignment 01: Printing Variables
 
 In this assignment, you will be making sure you know how to print out variables.
 

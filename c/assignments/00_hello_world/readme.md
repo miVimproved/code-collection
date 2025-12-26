@@ -1,4 +1,4 @@
-# Assignment 0: Hello, World!
+# Assignment 00: Hello, World!
 
 Welcome to the C programming language. In this assignment, you will be making the "Hello, World!" program of C!
 
